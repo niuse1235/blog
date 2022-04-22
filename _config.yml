@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 title: 초보개발자 찬우
 subtitle: hello
@@ -39,6 +40,18 @@ Page:
  
 
 
+=======
+title: 초보개발자 지망생 찬우
+email: niuse1235@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://niuse1235.github.io" 
+twitter_username: jekyllrb
+github_username:  jekyll
+>>>>>>> 12ee1309f4c4dc35d136796eaf86ff7c74d2d31a
 
 # Build settings
 #theme: jekyll-theme-clean-blog
